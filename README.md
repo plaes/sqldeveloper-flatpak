@@ -3,7 +3,7 @@
 ## Requirements
 
 * [Podman](https://podman.io/)
-* [OpenJFX](https://gluonhq.com/products/javafx/) SDK 17.0.6 x64
+* [OpenJFX](https://gluonhq.com/products/javafx/) SDK 17.0.17 x64
 * [SQL Developer for Other Platforms](https://www.oracle.com/database/sqldeveloper/technologies/download/) ZIP files.
 
 ## Instructions
